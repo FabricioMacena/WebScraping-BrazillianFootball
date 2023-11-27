@@ -1,0 +1,381 @@
+round,stadium,home_team,home_score,away_score,away_team
+1.0,Maracanã,Fluminense,3.0,0.0,Figueirense
+1.0,Beira-Rio,Internacional,1.0,0.0,Vitória
+1.0,Arena Condá,Chapecoense,0.0,0.0,Coritiba
+1.0,Morumbi,São Paulo,3.0,0.0,Botafogo
+1.0,Orlando Scarpelli,Athletico-PR,1.0,0.0,Grêmio
+1.0,Parque do Sabiá,Atlético-MG,0.0,0.0,Corinthians
+1.0,Itaipava Arena Fonte Nova,Bahia,1.0,2.0,Cruzeiro
+1.0,Mané Garrincha,Flamengo,0.0,0.0,Goiás
+1.0,Vila Belmiro,Santos,1.0,1.0,Sport
+1.0,Heriberto Hülse,Criciúma,1.0,2.0,Palmeiras
+2.0,Couto Pereira,Coritiba,0.0,0.0,Santos
+2.0,Pacaembu,Palmeiras,0.0,1.0,Fluminense
+2.0,Maracanã,Botafogo,2.0,2.0,Internacional
+2.0,Pacaembu,Corinthians,2.0,0.0,Flamengo
+2.0,Parque do Sabiá,Cruzeiro,1.0,1.0,São Paulo
+2.0,Pituaçu,Vitória,2.0,2.0,Athletico-PR
+2.0,Ilha do Retiro,Sport,2.0,1.0,Chapecoense
+2.0,Arena do Grêmio,Grêmio,2.0,1.0,Atlético-MG
+2.0,Arena Barueri,Figueirense,0.0,2.0,Bahia
+2.0,JK (Itumbiara),Goiás,1.0,0.0,Criciúma
+3.0,Pacaembu,São Paulo,2.0,2.0,Coritiba
+3.0,Vila Belmiro,Santos,0.0,0.0,Grêmio
+3.0,Mané Garrincha,Athletico-PR,2.0,3.0,Cruzeiro
+3.0,Maracanã,Fluminense,1.0,2.0,Vitória
+3.0,Maracanã,Flamengo,4.0,2.0,Palmeiras
+3.0,Itaipava Arena Fonte Nova,Bahia,1.0,0.0,Botafogo
+3.0,Beira-Rio,Internacional,2.0,1.0,Sport
+3.0,Heriberto Hülse,Criciúma,1.0,0.0,Figueirense
+3.0,Independência,Atlético-MG,0.0,1.0,Goiás
+3.0,Arena Condá,Chapecoense,0.0,1.0,Corinthians
+4.0,Pacaembu,Palmeiras,2.0,0.0,Goiás
+4.0,Beira-Rio,Internacional,2.0,1.0,Athletico-PR
+4.0,Maracanã,Botafogo,6.0,0.0,Criciúma
+4.0,Maracanã,Fluminense,2.0,0.0,Flamengo
+4.0,Arena Barueri,São Paulo,1.0,1.0,Corinthians
+4.0,Independência,Atlético-MG,2.0,1.0,Cruzeiro
+4.0,Arena Condá,Chapecoense,1.0,2.0,Grêmio
+4.0,Couto Pereira,Coritiba,0.0,1.0,Sport
+4.0,Itaipava Arena Fonte Nova,Bahia,1.0,1.0,Vitória
+4.0,Estádio do Café,Figueirense,0.0,2.0,Santos
+5.0,Municipal Juiz de Fora,Goiás,2.0,0.0,Botafogo
+5.0,Mineirão,Cruzeiro,3.0,2.0,Coritiba
+5.0,Maracanã,Flamengo,0.0,2.0,São Paulo
+5.0,Neo Química Arena,Corinthians,0.0,1.0,Figueirense
+5.0,Willie Davids,Athletico-PR,1.0,1.0,Chapecoense
+5.0,Arena do Grêmio,Grêmio,1.0,0.0,Fluminense
+5.0,Arena Pantanal,Santos,1.0,2.0,Atlético-MG
+5.0,Pituaçu,Vitória,0.0,1.0,Palmeiras
+5.0,Heriberto Hülse,Criciúma,0.0,0.0,Internacional
+5.0,Ilha do Retiro,Sport,1.0,0.0,Bahia
+6.0,Moacyrzão,Flamengo,1.0,1.0,Bahia
+6.0,Couto Pereira,Coritiba,1.0,1.0,Internacional
+6.0,Mineirão,Cruzeiro,2.0,0.0,Sport
+6.0,Heriberto Hülse,Criciúma,1.0,0.0,Chapecoense
+6.0,Maracanã,Fluminense,5.0,2.0,São Paulo
+6.0,Canindé,Corinthians,1.0,1.0,Athletico-PR
+6.0,Alfredo Jaconi,Grêmio,2.0,1.0,Botafogo
+6.0,Fonte Luminosa,Palmeiras,1.0,0.0,Figueirense
+6.0,Serra Dourada,Goiás,2.0,2.0,Santos
+6.0,Joia da Princesa,Vitória,2.0,3.0,Atlético-MG
+7.0,Arena Barueri,Bahia,0.0,1.0,Fluminense
+7.0,Morumbi,São Paulo,1.0,0.0,Grêmio
+7.0,Ilha do Retiro,Sport,1.0,4.0,Corinthians
+7.0,Morumbi,Santos,0.0,0.0,Flamengo
+7.0,Willie Davids,Athletico-PR,2.0,0.0,Coritiba
+7.0,Orlando Scarpelli,Figueirense,0.0,1.0,Goiás
+7.0,Moacyrzão,Botafogo,1.0,1.0,Vitória
+7.0,Ipatingão,Atlético-MG,0.0,0.0,Criciúma
+7.0,Centenário,Internacional,1.0,3.0,Cruzeiro
+7.0,Arena Condá,Chapecoense,2.0,0.0,Palmeiras
+8.0,Ilha do Retiro,Sport,0.0,0.0,Grêmio
+8.0,Prudentão,Palmeiras,0.0,2.0,Botafogo
+8.0,Heriberto Hülse,Criciúma,1.0,0.0,Coritiba
+8.0,Centenário,Internacional,2.0,0.0,Chapecoense
+8.0,Serra Dourada,Goiás,0.0,0.0,Vitória
+8.0,Canindé,Corinthians,1.0,0.0,Cruzeiro
+8.0,Parque do Sabiá,Athletico-PR,2.0,2.0,São Paulo
+8.0,Ipatingão,Atlético-MG,2.0,0.0,Fluminense
+8.0,Morumbi,Flamengo,1.0,1.0,Figueirense
+8.0,Joia da Princesa,Bahia,0.0,2.0,Santos
+9.0,Morumbi,São Paulo,2.0,1.0,Atlético-MG
+9.0,Durival Britto,Coritiba,3.0,0.0,Goiás
+9.0,Joia da Princesa,Vitória,0.0,1.0,Sport
+9.0,Parque do Sabiá,Cruzeiro,3.0,0.0,Flamengo
+9.0,Alfredo Jaconi,Grêmio,0.0,0.0,Palmeiras
+9.0,Arena Condá,Chapecoense,2.0,1.0,Bahia
+9.0,Neo Química Arena,Corinthians,1.0,1.0,Botafogo
+9.0,Moacyrzão,Fluminense,1.0,1.0,Internacional
+9.0,Primeiro de Maio,Santos,2.0,0.0,Criciúma
+9.0,Orlando Scarpelli,Figueirense,1.0,3.0,Athletico-PR
+10.0,Ilha do Retiro,Sport,1.0,0.0,Botafogo
+10.0,Couto Pereira,Coritiba,0.0,2.0,Figueirense
+10.0,Arena do Grêmio,Grêmio,0.0,0.0,Goiás
+10.0,Moacyrzão,Flamengo,1.0,2.0,Athletico-PR
+10.0,Itaipava Arena Fonte Nova,Bahia,0.0,2.0,São Paulo
+10.0,Heriberto Hülse,Criciúma,3.0,2.0,Fluminense
+10.0,Neo Química Arena,Corinthians,2.0,1.0,Internacional
+10.0,Vila Belmiro,Santos,2.0,0.0,Palmeiras
+10.0,Mineirão,Cruzeiro,3.0,1.0,Vitória
+10.0,Arena Condá,Chapecoense,1.0,1.0,Atlético-MG
+11.0,Morumbi,São Paulo,0.0,1.0,Chapecoense
+11.0,Independência,Atlético-MG,1.0,1.0,Bahia
+11.0,Orlando Scarpelli,Figueirense,0.0,1.0,Grêmio
+11.0,Raulino de Oliveira,Botafogo,1.0,0.0,Coritiba
+11.0,Pacaembu,Palmeiras,1.0,2.0,Cruzeiro
+11.0,Barradão,Vitória,0.0,0.0,Corinthians
+11.0,Beira-Rio,Internacional,4.0,0.0,Flamengo
+11.0,Raulino de Oliveira,Fluminense,1.0,0.0,Santos
+11.0,Ligga Arena,Athletico-PR,2.0,0.0,Criciúma
+11.0,Serra Dourada,Goiás,0.0,0.0,Sport
+12.0,Vila Belmiro,Santos,3.0,0.0,Chapecoense
+12.0,Mineirão,Cruzeiro,5.0,0.0,Figueirense
+12.0,Heriberto Hülse,Criciúma,1.0,3.0,Vitória
+12.0,Itaipava Arena Fonte Nova,Bahia,0.0,1.0,Internacional
+12.0,Ilha do Retiro,Sport,2.0,1.0,Atlético-MG
+12.0,Neo Química Arena,Corinthians,2.0,0.0,Palmeiras
+12.0,Ligga Arena,Athletico-PR,0.0,3.0,Fluminense
+12.0,Serra Dourada,Goiás,2.0,1.0,São Paulo
+12.0,Maracanã,Flamengo,1.0,0.0,Botafogo
+12.0,Arena do Grêmio,Grêmio,2.0,3.0,Coritiba
+13.0,Maracanã,Botafogo,1.0,1.0,Cruzeiro
+13.0,Morumbi,São Paulo,1.0,1.0,Criciúma
+13.0,Barradão,Vitória,2.0,1.0,Grêmio
+13.0,Pacaembu,Palmeiras,1.0,1.0,Bahia
+13.0,Couto Pereira,Coritiba,0.0,0.0,Corinthians
+13.0,Orlando Scarpelli,Figueirense,3.0,0.0,Sport
+13.0,Arena Condá,Chapecoense,1.0,0.0,Flamengo
+13.0,Maracanã,Fluminense,2.0,0.0,Goiás
+13.0,Independência,Atlético-MG,3.0,1.0,Athletico-PR
+13.0,Beira-Rio,Internacional,1.0,0.0,Santos
+14.0,Itaipava Arena Fonte Nova,Bahia,1.0,0.0,Goiás
+14.0,Heriberto Hülse,Criciúma,0.0,0.0,Cruzeiro
+14.0,Maracanã,Fluminense,1.0,1.0,Coritiba
+14.0,Maracanã,Flamengo,1.0,0.0,Sport
+14.0,Vila Belmiro,Santos,0.0,1.0,Corinthians
+14.0,Ligga Arena,Athletico-PR,2.0,0.0,Botafogo
+14.0,Beira-Rio,Internacional,2.0,0.0,Grêmio
+14.0,Morumbi,São Paulo,3.0,1.0,Vitória
+14.0,Independência,Atlético-MG,2.0,1.0,Palmeiras
+14.0,Arena Condá,Chapecoense,0.0,1.0,Figueirense
+15.0,Serra Dourada,Goiás,0.0,1.0,Internacional
+15.0,Neo Química Arena,Corinthians,1.0,1.0,Bahia
+15.0,Pacaembu,Palmeiras,1.0,2.0,São Paulo
+15.0,Couto Pereira,Coritiba,0.0,1.0,Flamengo
+15.0,Mineirão,Cruzeiro,3.0,0.0,Santos
+15.0,Barradão,Vitória,0.0,0.0,Chapecoense
+15.0,Arena do Grêmio,Grêmio,2.0,0.0,Criciúma
+15.0,Mané Garrincha,Botafogo,2.0,0.0,Fluminense
+15.0,Ilha do Retiro,Sport,1.0,1.0,Athletico-PR
+15.0,Orlando Scarpelli,Figueirense,2.0,2.0,Atlético-MG
+16.0,Arena de Pernambuco,Sport,2.0,1.0,Palmeiras
+16.0,Vila Belmiro,Santos,2.0,0.0,Athletico-PR
+16.0,Orlando Scarpelli,Figueirense,1.0,0.0,Botafogo
+16.0,Couto Pereira,Coritiba,2.0,0.0,Vitória
+16.0,Itaipava Arena Fonte Nova,Bahia,0.0,0.0,Criciúma
+16.0,Maracanã,Flamengo,2.0,1.0,Atlético-MG
+16.0,Beira-Rio,Internacional,0.0,1.0,São Paulo
+16.0,Arena Condá,Chapecoense,1.0,0.0,Fluminense
+16.0,Neo Química Arena,Corinthians,5.0,2.0,Goiás
+16.0,Mineirão,Cruzeiro,1.0,0.0,Grêmio
+17.0,Maracanã,Botafogo,1.0,0.0,Chapecoense
+17.0,Independência,Atlético-MG,1.0,0.0,Internacional
+17.0,Pacaembu,Palmeiras,1.0,0.0,Coritiba
+17.0,Maracanã,Fluminense,4.0,0.0,Sport
+17.0,Morumbi,São Paulo,2.0,1.0,Santos
+17.0,Barradão,Vitória,0.0,1.0,Figueirense
+17.0,Arena do Grêmio,Grêmio,2.0,1.0,Corinthians
+17.0,Heriberto Hülse,Criciúma,0.0,2.0,Flamengo
+17.0,Ligga Arena,Athletico-PR,0.0,0.0,Bahia
+17.0,Serra Dourada,Goiás,0.0,1.0,Cruzeiro
+18.0,Pacaembu,Palmeiras,0.0,1.0,Internacional
+18.0,Mineirão,Cruzeiro,4.0,2.0,Chapecoense
+18.0,Maracanã,Botafogo,1.0,0.0,Santos
+18.0,Ilha do Retiro,Sport,2.0,0.0,Criciúma
+18.0,Neo Química Arena,Corinthians,1.0,1.0,Fluminense
+18.0,Couto Pereira,Coritiba,0.0,0.0,Atlético-MG
+18.0,Orlando Scarpelli,Figueirense,1.0,1.0,São Paulo
+18.0,Barradão,Vitória,1.0,2.0,Flamengo
+18.0,Arena do Grêmio,Grêmio,1.0,0.0,Bahia
+18.0,Serra Dourada,Goiás,3.0,1.0,Athletico-PR
+19.0,Maracanã,Flamengo,0.0,1.0,Grêmio
+19.0,Pacaembu,Santos,3.0,1.0,Vitória
+19.0,Arena Condá,Chapecoense,0.0,0.0,Goiás
+19.0,Maracanã,Fluminense,3.0,3.0,Cruzeiro
+19.0,Morumbi,São Paulo,2.0,0.0,Sport
+19.0,Independência,Atlético-MG,1.0,0.0,Botafogo
+19.0,Heriberto Hülse,Criciúma,0.0,0.0,Corinthians
+19.0,Ligga Arena,Athletico-PR,1.0,1.0,Palmeiras
+19.0,Itaipava Arena Fonte Nova,Bahia,0.0,0.0,Coritiba
+19.0,Beira-Rio,Internacional,2.0,3.0,Figueirense
+20.0,Pacaembu,Palmeiras,1.0,0.0,Criciúma
+20.0,Arena do Grêmio,Grêmio,1.0,0.0,Athletico-PR
+20.0,Orlando Scarpelli,Figueirense,1.0,1.0,Fluminense
+20.0,Arena de Pernambuco,Sport,3.0,1.0,Santos
+20.0,Couto Pereira,Coritiba,3.0,0.0,Chapecoense
+20.0,Mané Garrincha,Botafogo,2.0,4.0,São Paulo
+20.0,Barradão,Vitória,2.0,0.0,Internacional
+20.0,Arena Pantanal,Goiás,1.0,0.0,Flamengo
+20.0,Neo Química Arena,Corinthians,1.0,0.0,Atlético-MG
+20.0,Mineirão,Cruzeiro,2.0,1.0,Bahia
+21.0,Maracanã,Fluminense,3.0,0.0,Palmeiras
+21.0,Arena Condá,Chapecoense,3.0,1.0,Sport
+21.0,Vila Belmiro,Santos,2.0,1.0,Coritiba
+21.0,Maracanã,Flamengo,1.0,0.0,Corinthians
+21.0,Morumbi,São Paulo,2.0,0.0,Cruzeiro
+21.0,Joia da Princesa,Bahia,3.0,0.0,Figueirense
+21.0,Beira-Rio,Internacional,2.0,0.0,Botafogo
+21.0,Ligga Arena,Athletico-PR,2.0,0.0,Vitória
+21.0,Independência,Atlético-MG,0.0,0.0,Grêmio
+21.0,Heriberto Hülse,Criciúma,1.0,0.0,Goiás
+22.0,Mineirão,Cruzeiro,2.0,0.0,Athletico-PR
+22.0,Barradão,Vitória,3.0,1.0,Fluminense
+22.0,Arena de Pernambuco,Sport,0.0,0.0,Internacional
+22.0,Orlando Scarpelli,Figueirense,1.0,1.0,Criciúma
+22.0,Maracanã,Botafogo,2.0,3.0,Bahia
+22.0,Pacaembu,Palmeiras,2.0,2.0,Flamengo
+22.0,Couto Pereira,Coritiba,3.0,1.0,São Paulo
+22.0,Neo Química Arena,Corinthians,1.0,1.0,Chapecoense
+22.0,Serra Dourada,Goiás,2.0,3.0,Atlético-MG
+22.0,Arena do Grêmio,Grêmio,0.0,0.0,Santos
+23.0,Ligga Arena,Athletico-PR,0.0,1.0,Internacional
+23.0,Heriberto Hülse,Criciúma,1.0,1.0,Botafogo
+23.0,Maracanã,Flamengo,1.0,1.0,Fluminense
+23.0,Ilha do Retiro,Sport,1.0,0.0,Coritiba
+23.0,Neo Química Arena,Corinthians,3.0,2.0,São Paulo
+23.0,Mineirão,Cruzeiro,2.0,3.0,Atlético-MG
+23.0,Itaipava Arena Fonte Nova,Vitória,2.0,1.0,Bahia
+23.0,Vila Belmiro,Santos,3.0,1.0,Figueirense
+23.0,Arena do Grêmio,Grêmio,1.0,0.0,Chapecoense
+23.0,Serra Dourada,Goiás,6.0,0.0,Palmeiras
+24.0,Couto Pereira,Coritiba,1.0,2.0,Cruzeiro
+24.0,Beira-Rio,Internacional,3.0,0.0,Criciúma
+24.0,Itaipava Arena Fonte Nova,Bahia,1.0,0.0,Sport
+24.0,Arena Condá,Chapecoense,3.0,0.0,Athletico-PR
+24.0,Maracanã,Fluminense,0.0,0.0,Grêmio
+24.0,Morumbi,São Paulo,2.0,2.0,Flamengo
+24.0,Orlando Scarpelli,Figueirense,1.0,0.0,Corinthians
+24.0,Maracanã,Botafogo,1.0,0.0,Goiás
+24.0,Pacaembu,Palmeiras,2.0,0.0,Vitória
+24.0,Independência,Atlético-MG,3.0,2.0,Santos
+25.0,Arena de Pernambuco,Sport,0.0,0.0,Cruzeiro
+25.0,Arena Condá,Chapecoense,1.0,1.0,Criciúma
+25.0,Morumbi,São Paulo,1.0,3.0,Fluminense
+25.0,Maracanã,Botafogo,0.0,2.0,Grêmio
+25.0,Ligga Arena,Athletico-PR,1.0,0.0,Corinthians
+25.0,Independência,Atlético-MG,2.0,0.0,Vitória
+25.0,Itaipava Arena Fonte Nova,Bahia,2.0,1.0,Flamengo
+25.0,Pacaembu,Santos,2.0,0.0,Goiás
+25.0,Beira-Rio,Internacional,4.0,2.0,Coritiba
+25.0,Orlando Scarpelli,Figueirense,3.0,1.0,Palmeiras
+26.0,Pacaembu,Palmeiras,4.0,2.0,Chapecoense
+26.0,Maracanã,Flamengo,0.0,1.0,Santos
+26.0,Mané Garrincha,Fluminense,1.0,1.0,Bahia
+26.0,Couto Pereira,Coritiba,1.0,0.0,Athletico-PR
+26.0,Barradão,Vitória,2.0,1.0,Botafogo
+26.0,Arena do Grêmio,Grêmio,0.0,1.0,São Paulo
+26.0,Neo Química Arena,Corinthians,3.0,0.0,Sport
+26.0,Mineirão,Cruzeiro,2.0,1.0,Internacional
+26.0,Heriberto Hülse,Criciúma,3.0,1.0,Atlético-MG
+26.0,Serra Dourada,Goiás,1.0,0.0,Figueirense
+27.0,Maracanã,Botafogo,0.0,1.0,Palmeiras
+27.0,Morumbi,São Paulo,1.0,0.0,Athletico-PR
+27.0,Couto Pereira,Coritiba,1.0,0.0,Criciúma
+27.0,Barradão,Vitória,2.0,2.0,Goiás
+27.0,Mineirão,Cruzeiro,0.0,1.0,Corinthians
+27.0,Arena do Grêmio,Grêmio,2.0,0.0,Sport
+27.0,Orlando Scarpelli,Figueirense,1.0,2.0,Flamengo
+27.0,Maracanã,Fluminense,0.0,0.0,Atlético-MG
+27.0,Vila Belmiro,Santos,1.0,0.0,Bahia
+27.0,Arena Condá,Chapecoense,5.0,0.0,Internacional
+28.0,Arena da Amazônia,Botafogo,1.0,0.0,Corinthians
+28.0,Serra Dourada,Goiás,3.0,0.0,Coritiba
+28.0,Pacaembu,Palmeiras,2.0,1.0,Grêmio
+28.0,Maracanã,Flamengo,3.0,0.0,Cruzeiro
+28.0,Independência,Atlético-MG,1.0,0.0,São Paulo
+28.0,Itaipava Arena Fonte Nova,Bahia,0.0,1.0,Chapecoense
+28.0,Beira-Rio,Internacional,2.0,1.0,Fluminense
+28.0,Ilha do Retiro,Sport,1.0,2.0,Vitória
+28.0,Ligga Arena,Athletico-PR,3.0,0.0,Figueirense
+28.0,Heriberto Hülse,Criciúma,3.0,0.0,Santos
+29.0,Maracanã,Fluminense,4.0,2.0,Criciúma
+29.0,Morumbi,São Paulo,2.0,1.0,Bahia
+29.0,Serra Dourada,Goiás,0.0,0.0,Grêmio
+29.0,Independência,Atlético-MG,1.0,0.0,Chapecoense
+29.0,Pacaembu,Palmeiras,1.0,3.0,Santos
+29.0,Ligga Arena,Athletico-PR,2.0,1.0,Flamengo
+29.0,Beira-Rio,Internacional,1.0,2.0,Corinthians
+29.0,Orlando Scarpelli,Figueirense,4.0,0.0,Coritiba
+29.0,Raulino de Oliveira,Botafogo,1.0,1.0,Sport
+29.0,Barradão,Vitória,0.0,1.0,Cruzeiro
+30.0,Itaipava Arena Fonte Nova,Bahia,1.0,1.0,Atlético-MG
+30.0,Maracanã,Flamengo,2.0,0.0,Internacional
+30.0,Arena Pantanal,Corinthians,2.0,1.0,Vitória
+30.0,Mineirão,Cruzeiro,1.0,1.0,Palmeiras
+30.0,Heriberto Hülse,Criciúma,0.0,1.0,Athletico-PR
+30.0,Couto Pereira,Coritiba,2.0,0.0,Botafogo
+30.0,Arena do Grêmio,Grêmio,1.0,0.0,Figueirense
+30.0,Vila Belmiro,Santos,0.0,1.0,Fluminense
+30.0,Arena Condá,Chapecoense,0.0,0.0,São Paulo
+30.0,Ilha do Retiro,Sport,0.0,1.0,Goiás
+31.0,Maracanã,Fluminense,2.0,1.0,Athletico-PR
+31.0,Pacaembu,Palmeiras,1.0,1.0,Corinthians
+31.0,Orlando Scarpelli,Figueirense,1.0,1.0,Cruzeiro
+31.0,Couto Pereira,Coritiba,1.0,1.0,Grêmio
+31.0,Independência,Atlético-MG,3.0,2.0,Sport
+31.0,Barradão,Vitória,3.0,1.0,Criciúma
+31.0,Arena Condá,Chapecoense,1.0,1.0,Santos
+31.0,Arena da Amazônia,Botafogo,2.0,1.0,Flamengo
+31.0,Beira-Rio,Internacional,2.0,0.0,Bahia
+31.0,Morumbi,São Paulo,3.0,0.0,Goiás
+32.0,Arena do Grêmio,Grêmio,1.0,0.0,Vitória
+32.0,Serra Dourada,Goiás,0.0,2.0,Fluminense
+32.0,Neo Química Arena,Corinthians,2.0,2.0,Coritiba
+32.0,Ilha do Retiro,Sport,1.0,0.0,Figueirense
+32.0,Vila Belmiro,Santos,1.0,2.0,Internacional
+32.0,Mineirão,Cruzeiro,2.0,1.0,Botafogo
+32.0,Heriberto Hülse,Criciúma,1.0,2.0,São Paulo
+32.0,Maracanã,Flamengo,3.0,0.0,Chapecoense
+32.0,Ligga Arena,Athletico-PR,1.0,0.0,Atlético-MG
+32.0,Itaipava Arena Fonte Nova,Bahia,0.0,1.0,Palmeiras
+33.0,Pacaembu,Palmeiras,0.0,2.0,Atlético-MG
+33.0,Couto Pereira,Coritiba,1.0,0.0,Fluminense
+33.0,Raulino de Oliveira,Botafogo,0.0,2.0,Athletico-PR
+33.0,Arena de Pernambuco,Sport,2.0,2.0,Flamengo
+33.0,Barradão,Vitória,1.0,2.0,São Paulo
+33.0,Arena do Grêmio,Grêmio,4.0,1.0,Internacional
+33.0,Orlando Scarpelli,Figueirense,1.0,0.0,Chapecoense
+33.0,Neo Química Arena,Corinthians,1.0,0.0,Santos
+33.0,Mineirão,Cruzeiro,3.0,1.0,Criciúma
+33.0,Serra Dourada,Goiás,3.0,0.0,Bahia
+34.0,Maracanã,Fluminense,1.0,0.0,Botafogo
+34.0,Heriberto Hülse,Criciúma,0.0,3.0,Grêmio
+34.0,Maracanã,Flamengo,3.0,2.0,Coritiba
+34.0,Vila Belmiro,Santos,0.0,1.0,Cruzeiro
+34.0,Ligga Arena,Athletico-PR,0.0,1.0,Sport
+34.0,Itaipava Arena Fonte Nova,Bahia,1.0,2.0,Corinthians
+34.0,Beira-Rio,Internacional,1.0,0.0,Goiás
+34.0,Morumbi,São Paulo,2.0,0.0,Palmeiras
+34.0,Independência,Atlético-MG,1.0,1.0,Figueirense
+34.0,Arena Condá,Chapecoense,0.0,1.0,Vitória
+35.0,Morumbi,São Paulo,1.0,1.0,Internacional
+35.0,São Januário,Botafogo,0.0,1.0,Figueirense
+35.0,Ligga Arena,Athletico-PR,1.0,1.0,Santos
+35.0,Barradão,Vitória,1.0,1.0,Coritiba
+35.0,Heriberto Hülse,Criciúma,0.0,1.0,Bahia
+35.0,Mangueirão,Goiás,0.0,1.0,Corinthians
+35.0,Allianz Parque,Palmeiras,0.0,2.0,Sport
+35.0,Independência,Atlético-MG,4.0,0.0,Flamengo
+35.0,Maracanã,Fluminense,1.0,4.0,Chapecoense
+35.0,Arena do Grêmio,Grêmio,1.0,2.0,Cruzeiro
+36.0,Beira-Rio,Internacional,2.0,1.0,Atlético-MG
+36.0,Itaipava Arena Fonte Nova,Bahia,1.0,2.0,Athletico-PR
+36.0,Castelão (MA),Flamengo,1.0,1.0,Criciúma
+36.0,Arena de Pernambuco,Sport,2.0,2.0,Fluminense
+36.0,Arena Pantanal,Santos,0.0,1.0,São Paulo
+36.0,Mineirão,Cruzeiro,2.0,1.0,Goiás
+36.0,Orlando Scarpelli,Figueirense,2.0,0.0,Vitória
+36.0,Neo Química Arena,Corinthians,1.0,0.0,Grêmio
+36.0,Couto Pereira,Coritiba,2.0,0.0,Palmeiras
+36.0,Arena Condá,Chapecoense,2.0,0.0,Botafogo
+37.0,Beira-Rio,Internacional,3.0,1.0,Palmeiras
+37.0,Heriberto Hülse,Criciúma,2.0,2.0,Sport
+37.0,Arena da Amazônia,Flamengo,4.0,0.0,Vitória
+37.0,Maracanã,Fluminense,5.0,2.0,Corinthians
+37.0,Morumbi,São Paulo,1.0,1.0,Figueirense
+37.0,Vila Belmiro,Santos,2.0,0.0,Botafogo
+37.0,Arena Condá,Chapecoense,1.0,1.0,Cruzeiro
+37.0,Ligga Arena,Athletico-PR,1.0,0.0,Goiás
+37.0,Independência,Atlético-MG,1.0,2.0,Coritiba
+37.0,Itaipava Arena Fonte Nova,Bahia,1.0,0.0,Grêmio
+38.0,Neo Química Arena,Corinthians,2.0,1.0,Criciúma
+38.0,Orlando Scarpelli,Figueirense,1.0,2.0,Internacional
+38.0,Mané Garrincha,Botafogo,0.0,0.0,Atlético-MG
+38.0,Arena de Pernambuco,Sport,1.0,0.0,São Paulo
+38.0,Allianz Parque,Palmeiras,1.0,1.0,Athletico-PR
+38.0,Couto Pereira,Coritiba,3.0,2.0,Bahia
+38.0,Mineirão,Cruzeiro,2.0,1.0,Fluminense
+38.0,Barradão,Vitória,0.0,1.0,Santos
+38.0,Arena do Grêmio,Grêmio,1.0,1.0,Flamengo
+38.0,Serra Dourada,Goiás,4.0,2.0,Chapecoense

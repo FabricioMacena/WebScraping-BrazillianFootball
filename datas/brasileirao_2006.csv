@@ -1,0 +1,381 @@
+round,stadium,home_team,home_score,away_score,away_team
+1.0,Alfredo Jaconi,Juventude,1.0,0.0,Paraná
+1.0,São Januário,Vasco,1.0,1.0,Internacional
+1.0,Olímpico,Grêmio,2.0,0.0,Corinthians
+1.0,Morumbi,São Paulo,1.0,0.0,Flamengo
+1.0,Anacleto Campanella,São Caetano,2.0,1.0,Cruzeiro
+1.0,Maracanã,Botafogo,1.0,0.0,Fortaleza
+1.0,Arruda,Santa Cruz,0.0,0.0,Figueirense
+1.0,Palestra Itália,Palmeiras,2.0,3.0,Ponte Preta
+1.0,Serra Dourada,Goiás,0.0,0.0,Santos
+1.0,Ligga Arena,Athletico-PR,1.0,2.0,Fluminense
+2.0,Pacaembu,Corinthians,3.0,0.0,São Caetano
+2.0,Maracanã,Fluminense,1.0,0.0,Goiás
+2.0,Orlando Scarpelli,Figueirense,6.0,1.0,Palmeiras
+2.0,Beira-Rio,Internacional,1.0,0.0,Santa Cruz
+2.0,João Paulo II,Santos,2.0,0.0,Athletico-PR
+2.0,Moisés Lucarelli,Ponte Preta,1.0,2.0,Vasco
+2.0,Maracanã,Flamengo,3.0,1.0,Juventude
+2.0,Mineirão,Cruzeiro,3.0,1.0,Grêmio
+2.0,Pinheirão (PR),Paraná,0.0,0.0,Botafogo
+2.0,Castelão (CE),Fortaleza,1.0,0.0,São Paulo
+3.0,Castelão (CE),Fortaleza,2.0,1.0,São Caetano
+3.0,Maracanã,Botafogo,0.0,4.0,Athletico-PR
+3.0,Morumbi,São Paulo,4.0,0.0,Santa Cruz
+3.0,Beira-Rio,Internacional,1.0,0.0,Flamengo
+3.0,Moisés Lucarelli,Ponte Preta,3.0,2.0,Corinthians
+3.0,Pinheirão (PR),Paraná,5.0,2.0,Grêmio
+3.0,Palestra Itália,Palmeiras,1.0,2.0,Santos
+3.0,Maracanã,Vasco,1.0,1.0,Fluminense
+3.0,Alfredo Jaconi,Juventude,1.0,1.0,Goiás
+3.0,Orlando Scarpelli,Figueirense,0.0,2.0,Cruzeiro
+4.0,Arruda,Santa Cruz,1.0,1.0,Ponte Preta
+4.0,Maracanã,Fluminense,2.0,1.0,Paraná
+4.0,Bruno José Daniel,Santos,2.0,0.0,Fortaleza
+4.0,Olímpico,Grêmio,1.0,2.0,Vasco
+4.0,Anacleto Campanella,São Caetano,2.0,0.0,Palmeiras
+4.0,Ligga Arena,Athletico-PR,1.0,2.0,Internacional
+4.0,Teixeirão (SP),Corinthians,1.0,3.0,São Paulo
+4.0,Serra Dourada,Goiás,2.0,1.0,Figueirense
+4.0,Maracanã,Flamengo,1.0,0.0,Botafogo
+4.0,Mineirão,Cruzeiro,2.0,0.0,Juventude
+5.0,Anacleto Campanella,São Caetano,0.0,2.0,Juventude
+5.0,Maracanã,Botafogo,2.0,2.0,Grêmio
+5.0,Vila Belmiro,Santos,3.0,1.0,Ponte Preta
+5.0,Arruda,Santa Cruz,1.0,2.0,Athletico-PR
+5.0,Beira-Rio,Internacional,3.0,1.0,São Paulo
+5.0,Orlando Scarpelli,Figueirense,1.0,0.0,Fluminense
+5.0,Palestra Itália,Palmeiras,1.0,1.0,Cruzeiro
+5.0,Maracanã,Flamengo,0.0,0.0,Fortaleza
+5.0,Willie Davids,Paraná,1.0,2.0,Corinthians
+5.0,Serra Dourada,Goiás,2.0,0.0,Vasco
+6.0,Ligga Arena,Athletico-PR,2.0,3.0,Goiás
+6.0,Castelão (CE),Fortaleza,1.0,1.0,Paraná
+6.0,Beira-Rio,Internacional,2.0,4.0,Figueirense
+6.0,Morumbi,São Paulo,1.0,0.0,São Caetano
+6.0,São Januário,Vasco,2.0,4.0,Corinthians
+6.0,Mineirão,Cruzeiro,2.0,1.0,Flamengo
+6.0,Palestra Itália,Palmeiras,2.0,1.0,Santa Cruz
+6.0,Moisés Lucarelli,Ponte Preta,1.0,1.0,Grêmio
+6.0,Maracanã,Fluminense,1.0,0.0,Santos
+6.0,Alfredo Jaconi,Juventude,1.0,0.0,Botafogo
+7.0,Alfredo Jaconi,Juventude,4.0,1.0,Santa Cruz
+7.0,Pinheirão (PR),Paraná,0.0,0.0,Figueirense
+7.0,Mineirão,Cruzeiro,5.0,1.0,Ponte Preta
+7.0,Morumbi,São Paulo,4.0,1.0,Palmeiras
+7.0,Anacleto Campanella,São Caetano,2.0,1.0,Athletico-PR
+7.0,Maracanã,Flamengo,2.0,2.0,Santos
+7.0,Castelão (CE),Fortaleza,2.0,5.0,Fluminense
+7.0,Maracanã,Botafogo,4.0,1.0,Vasco
+7.0,Olímpico,Grêmio,2.0,0.0,Goiás
+7.0,Morumbi,Corinthians,0.0,1.0,Internacional
+8.0,Orlando Scarpelli,Figueirense,0.0,0.0,Fortaleza
+8.0,Moisés Lucarelli,Ponte Preta,2.0,5.0,Paraná
+8.0,Ligga Arena,Athletico-PR,1.0,0.0,Juventude
+8.0,Beira-Rio,Internacional,1.0,1.0,Cruzeiro
+8.0,Vila Belmiro,Santos,2.0,0.0,Corinthians
+8.0,Arruda,Santa Cruz,1.0,1.0,Botafogo
+8.0,Maracanã,Fluminense,1.0,0.0,Flamengo
+8.0,Serra Dourada,Goiás,2.0,1.0,São Caetano
+8.0,São Januário,Vasco,1.0,1.0,São Paulo
+8.0,Palestra Itália,Palmeiras,0.0,1.0,Grêmio
+9.0,Alfredo Jaconi,Juventude,0.0,1.0,Ponte Preta
+9.0,Mineirão,Cruzeiro,1.0,1.0,Athletico-PR
+9.0,Castelão (CE),Fortaleza,1.0,1.0,Vasco
+9.0,Anacleto Campanella,São Caetano,1.0,1.0,Internacional
+9.0,Maracanã,Flamengo,2.0,1.0,Palmeiras
+9.0,Olímpico,Grêmio,1.0,0.0,Santos
+9.0,Morumbi,São Paulo,1.0,0.0,Fluminense
+9.0,Pinheirão (PR),Paraná,3.0,0.0,Santa Cruz
+9.0,Maracanã,Botafogo,2.0,3.0,Figueirense
+9.0,Morumbi,Corinthians,0.0,1.0,Goiás
+10.0,Maracanã,Fluminense,2.0,3.0,Internacional
+10.0,Castelão (CE),Fortaleza,0.0,2.0,Cruzeiro
+10.0,Olímpico,Grêmio,1.0,1.0,São Caetano
+10.0,Ligga Arena,Athletico-PR,2.0,0.0,Palmeiras
+10.0,São Januário,Vasco,2.0,1.0,Santa Cruz
+10.0,Morumbi,Corinthians,0.0,2.0,Flamengo
+10.0,Moisés Lucarelli,Ponte Preta,3.0,0.0,Figueirense
+10.0,Serra Dourada,Goiás,1.0,2.0,Paraná
+10.0,Alfredo Jaconi,Juventude,1.0,1.0,São Paulo
+10.0,Vila Belmiro,Santos,0.0,0.0,Botafogo
+11.0,Beira-Rio,Internacional,2.0,0.0,Ponte Preta
+11.0,Ligga Arena,Athletico-PR,0.0,0.0,Fortaleza
+11.0,Raulino de Oliveira,Fluminense,3.0,2.0,Juventude
+11.0,Morumbi,São Paulo,2.0,1.0,Grêmio
+11.0,Orlando Scarpelli,Figueirense,2.0,1.0,Santos
+11.0,Anacleto Campanella,São Caetano,1.0,1.0,Botafogo
+11.0,Mineirão,Cruzeiro,2.0,0.0,Corinthians
+11.0,Arruda,Santa Cruz,2.0,1.0,Goiás
+11.0,Raulino de Oliveira,Flamengo,1.0,4.0,Paraná
+11.0,Palestra Itália,Palmeiras,4.0,2.0,Vasco
+12.0,Raulino de Oliveira,Botafogo,4.0,1.0,Ponte Preta
+12.0,Morumbi,São Paulo,2.0,1.0,Figueirense
+12.0,Olímpico,Grêmio,4.0,4.0,Fluminense
+12.0,Anacleto Campanella,São Caetano,2.0,0.0,Santos
+12.0,Mineirão,Cruzeiro,0.0,0.0,Goiás
+12.0,Morumbi,Palmeiras,1.0,0.0,Corinthians
+12.0,Maracanã,Flamengo,0.0,1.0,Vasco
+12.0,Alfredo Jaconi,Juventude,2.0,0.0,Internacional
+12.0,Pinheirão (PR),Paraná,2.0,1.0,Athletico-PR
+12.0,Castelão (CE),Fortaleza,1.0,4.0,Santa Cruz
+13.0,Orlando Scarpelli,Figueirense,2.0,0.0,Grêmio
+13.0,Pinheirão (PR),Paraná,1.0,0.0,Cruzeiro
+13.0,Morumbi,Corinthians,2.0,2.0,Fortaleza
+13.0,Maracanã,Fluminense,2.0,2.0,São Caetano
+13.0,Moisés Lucarelli,Ponte Preta,1.0,3.0,São Paulo
+13.0,São Januário,Vasco,2.0,1.0,Athletico-PR
+13.0,Arruda,Santa Cruz,3.0,0.0,Flamengo
+13.0,Vila Belmiro,Santos,3.0,2.0,Juventude
+13.0,Beira-Rio,Internacional,0.0,0.0,Botafogo
+13.0,Serra Dourada,Goiás,1.0,3.0,Palmeiras
+14.0,Alfredo Jaconi,Juventude,1.0,0.0,Figueirense
+14.0,Anacleto Campanella,São Caetano,1.0,1.0,Ponte Preta
+14.0,Palestra Itália,Palmeiras,4.0,2.0,Paraná
+14.0,Ligga Arena,Athletico-PR,1.0,0.0,Flamengo
+14.0,São Januário,Vasco,1.0,0.0,Cruzeiro
+14.0,Arruda,Santa Cruz,1.0,0.0,Corinthians
+14.0,Morumbi,São Paulo,0.0,4.0,Santos
+14.0,Maracanã,Fluminense,1.0,1.0,Botafogo
+14.0,Beira-Rio,Internacional,0.0,0.0,Grêmio
+14.0,Serra Dourada,Goiás,1.0,1.0,Fortaleza
+15.0,Olímpico,Grêmio,1.0,0.0,Juventude
+15.0,Orlando Scarpelli,Figueirense,1.0,1.0,São Caetano
+15.0,Maracanã,Flamengo,1.0,0.0,Goiás
+15.0,Pacaembu,Corinthians,2.0,1.0,Athletico-PR
+15.0,Raulino de Oliveira,Botafogo,1.0,1.0,São Paulo
+15.0,Vila Belmiro,Santos,2.0,1.0,Internacional
+15.0,Pinheirão (PR),Paraná,2.0,1.0,Vasco
+15.0,Mineirão,Cruzeiro,3.0,3.0,Santa Cruz
+15.0,Presidente Vargas (CE),Fortaleza,0.0,0.0,Palmeiras
+15.0,Moisés Lucarelli,Ponte Preta,3.0,0.0,Fluminense
+16.0,Alfredo Jaconi,Juventude,0.0,0.0,Vasco
+16.0,Anacleto Campanella,São Caetano,2.0,0.0,Santa Cruz
+16.0,Maracanã,Flamengo,0.0,0.0,Ponte Preta
+16.0,Pacaembu,Corinthians,1.0,3.0,Figueirense
+16.0,Maracanã,Botafogo,1.0,3.0,Palmeiras
+16.0,Centenário,Grêmio,2.0,0.0,Athletico-PR
+16.0,Mineirão,Cruzeiro,2.0,3.0,Fluminense
+16.0,Castelão (CE),Fortaleza,1.0,2.0,Internacional
+16.0,Morumbi,São Paulo,2.0,1.0,Goiás
+16.0,Pinheirão (PR),Paraná,1.0,1.0,Santos
+17.0,Moisés Lucarelli,Ponte Preta,1.0,3.0,Fortaleza
+17.0,São Januário,Vasco,1.0,2.0,São Caetano
+17.0,Arruda,Santa Cruz,2.0,4.0,Grêmio
+17.0,Serra Dourada,Goiás,2.0,2.0,Botafogo
+17.0,Orlando Scarpelli,Figueirense,1.0,1.0,Flamengo
+17.0,Maracanã,Fluminense,1.0,2.0,Corinthians
+17.0,Vila Belmiro,Santos,2.0,0.0,Cruzeiro
+17.0,Palestra Itália,Palmeiras,1.0,1.0,Juventude
+17.0,Beira-Rio,Internacional,3.0,2.0,Paraná
+17.0,Ligga Arena,Athletico-PR,0.0,0.0,São Paulo
+18.0,Moisés Lucarelli,Ponte Preta,3.0,2.0,Goiás
+18.0,Maracanã,Flamengo,1.0,0.0,Grêmio
+18.0,Maracanã,Fluminense,1.0,1.0,Santa Cruz
+18.0,Vila Belmiro,Santos,0.0,2.0,Vasco
+18.0,Mineirão,Cruzeiro,2.0,2.0,São Paulo
+18.0,Presidente Vargas (CE),Fortaleza,4.0,1.0,Juventude
+18.0,Orlando Scarpelli,Figueirense,3.0,3.0,Athletico-PR
+18.0,Pinheirão (PR),Paraná,1.0,0.0,São Caetano
+18.0,Beira-Rio,Internacional,1.0,1.0,Palmeiras
+18.0,Pacaembu,Corinthians,1.0,0.0,Botafogo
+19.0,Serra Dourada,Goiás,2.0,2.0,Internacional
+19.0,Palestra Itália,Palmeiras,3.0,0.0,Fluminense
+19.0,Ligga Arena,Athletico-PR,3.0,0.0,Ponte Preta
+19.0,Maracanã,Botafogo,1.0,0.0,Cruzeiro
+19.0,Arruda,Santa Cruz,1.0,1.0,Santos
+19.0,Alfredo Jaconi,Juventude,0.0,0.0,Corinthians
+19.0,Anacleto Campanella,São Caetano,2.0,2.0,Flamengo
+19.0,Centenário,Grêmio,4.0,1.0,Fortaleza
+19.0,Morumbi,São Paulo,3.0,2.0,Paraná
+19.0,São Januário,Vasco,3.0,1.0,Figueirense
+20.0,Maracanã,Fluminense,1.0,2.0,Athletico-PR
+20.0,Vila Belmiro,Santos,2.0,1.0,Goiás
+20.0,Independência,Cruzeiro,3.0,0.0,São Caetano
+20.0,Beira-Rio,Internacional,1.0,2.0,Vasco
+20.0,Pinheirão (PR),Paraná,0.0,1.0,Juventude
+20.0,Maracanã,Flamengo,1.0,1.0,São Paulo
+20.0,Pacaembu,Corinthians,0.0,2.0,Grêmio
+20.0,Orlando Scarpelli,Figueirense,2.0,0.0,Santa Cruz
+20.0,Moisés Lucarelli,Ponte Preta,1.0,1.0,Palmeiras
+20.0,Castelão (CE),Fortaleza,2.0,3.0,Botafogo
+21.0,Centenário,Grêmio,2.0,1.0,Cruzeiro
+21.0,Serra Dourada,Goiás,3.0,1.0,Fluminense
+21.0,Arruda,Santa Cruz,0.0,2.0,Internacional
+21.0,Palestra Itália,Palmeiras,1.0,1.0,Figueirense
+21.0,Alfredo Jaconi,Juventude,1.0,0.0,Flamengo
+21.0,Anacleto Campanella,São Caetano,0.0,1.0,Corinthians
+21.0,Ligga Arena,Athletico-PR,2.0,1.0,Santos
+21.0,Maracanã,Botafogo,4.0,0.0,Paraná
+21.0,Morumbi,São Paulo,1.0,1.0,Fortaleza
+21.0,São Januário,Vasco,2.0,2.0,Ponte Preta
+22.0,Mineirão,Cruzeiro,2.0,2.0,Figueirense
+22.0,Maracanã,Flamengo,1.0,2.0,Internacional
+22.0,Olímpico,Grêmio,2.0,1.0,Paraná
+22.0,Vila Belmiro,Santos,5.0,1.0,Palmeiras
+22.0,Anacleto Campanella,São Caetano,0.0,0.0,Fortaleza
+22.0,Ligga Arena,Athletico-PR,0.0,5.0,Botafogo
+22.0,Serra Dourada,Goiás,2.0,0.0,Juventude
+22.0,Maracanã,Fluminense,1.0,1.0,Vasco
+22.0,Arruda,Santa Cruz,1.0,3.0,São Paulo
+22.0,Pacaembu,Corinthians,1.0,0.0,Ponte Preta
+23.0,Moisés Lucarelli,Ponte Preta,2.0,0.0,Santa Cruz
+23.0,São Januário,Vasco,1.0,1.0,Grêmio
+23.0,Palestra Itália,Palmeiras,3.0,1.0,São Caetano
+23.0,Orlando Scarpelli,Figueirense,2.0,2.0,Goiás
+23.0,Morumbi,São Paulo,0.0,0.0,Corinthians
+23.0,Pinheirão (PR),Paraná,1.0,0.0,Fluminense
+23.0,Alfredo Jaconi,Juventude,2.0,0.0,Cruzeiro
+23.0,Maracanã,Botafogo,0.0,2.0,Flamengo
+23.0,Beira-Rio,Internacional,2.0,0.0,Athletico-PR
+23.0,Presidente Vargas (CE),Fortaleza,1.0,1.0,Santos
+24.0,Ligga Arena,Athletico-PR,2.0,1.0,Santa Cruz
+24.0,São Januário,Vasco,0.0,0.0,Goiás
+24.0,Pacaembu,Corinthians,1.0,0.0,Paraná
+24.0,Olímpico,Grêmio,4.0,0.0,Botafogo
+24.0,Alfredo Jaconi,Juventude,1.0,0.0,São Caetano
+24.0,Morumbi,São Paulo,2.0,0.0,Internacional
+24.0,Mineirão,Cruzeiro,1.0,0.0,Palmeiras
+24.0,Maracanã,Fluminense,2.0,0.0,Figueirense
+24.0,Moisés Lucarelli,Ponte Preta,1.0,0.0,Santos
+24.0,Castelão (CE),Fortaleza,3.0,4.0,Flamengo
+25.0,Olímpico,Grêmio,4.0,0.0,Ponte Preta
+25.0,Orlando Scarpelli,Figueirense,1.0,0.0,Internacional
+25.0,Maracanã,Botafogo,2.0,1.0,Juventude
+25.0,Durival Britto,Paraná,2.0,0.0,Fortaleza
+25.0,Serra Dourada,Goiás,2.0,2.0,Athletico-PR
+25.0,Vila Belmiro,Santos,1.0,1.0,Fluminense
+25.0,Anacleto Campanella,São Caetano,0.0,1.0,São Paulo
+25.0,Pacaembu,Corinthians,1.0,1.0,Vasco
+25.0,Maracanã,Flamengo,1.0,0.0,Cruzeiro
+25.0,Arruda,Santa Cruz,3.0,2.0,Palmeiras
+26.0,Maracanã,Fluminense,1.0,3.0,Fortaleza
+26.0,Ligga Arena,Athletico-PR,3.0,1.0,São Caetano
+26.0,Beira-Rio,Internacional,1.0,1.0,Corinthians
+26.0,Orlando Scarpelli,Figueirense,0.0,1.0,Paraná
+26.0,Vila Belmiro,Santos,3.0,0.0,Flamengo
+26.0,Arruda,Santa Cruz,1.0,0.0,Juventude
+26.0,Prudentão,Palmeiras,3.0,1.0,São Paulo
+26.0,Moisés Lucarelli,Ponte Preta,0.0,1.0,Cruzeiro
+26.0,Maracanã,Vasco,0.0,0.0,Botafogo
+26.0,Serra Dourada,Goiás,4.0,0.0,Grêmio
+27.0,Alfredo Jaconi,Juventude,3.0,2.0,Athletico-PR
+27.0,Durival Britto,Paraná,2.0,1.0,Ponte Preta
+27.0,Presidente Vargas (CE),Fortaleza,1.0,1.0,Figueirense
+27.0,Maracanã,Flamengo,4.0,1.0,Fluminense
+27.0,Olímpico,Grêmio,2.0,1.0,Palmeiras
+27.0,Morumbi,São Paulo,5.0,1.0,Vasco
+27.0,Anacleto Campanella,São Caetano,1.0,2.0,Goiás
+27.0,Maracanã,Botafogo,3.0,0.0,Santa Cruz
+27.0,Mineirão,Cruzeiro,2.0,1.0,Internacional
+27.0,Pacaembu,Corinthians,0.0,3.0,Santos
+28.0,Moisés Lucarelli,Ponte Preta,3.0,1.0,Juventude
+28.0,Maracanã,Fluminense,1.0,2.0,São Paulo
+28.0,São Januário,Vasco,2.0,0.0,Fortaleza
+28.0,Beira-Rio,Internacional,1.0,0.0,São Caetano
+28.0,Ligga Arena,Athletico-PR,1.0,1.0,Cruzeiro
+28.0,Arruda,Santa Cruz,1.0,3.0,Paraná
+28.0,Palestra Itália,Palmeiras,3.0,1.0,Flamengo
+28.0,Serra Dourada,Goiás,3.0,1.0,Corinthians
+28.0,Orlando Scarpelli,Figueirense,1.0,0.0,Botafogo
+28.0,Vila Belmiro,Santos,1.0,0.0,Grêmio
+29.0,Independência,Cruzeiro,0.0,0.0,Fortaleza
+29.0,Maracanã,Botafogo,4.0,3.0,Santos
+29.0,Morumbi,São Paulo,5.0,0.0,Juventude
+29.0,Anacleto Campanella,São Caetano,0.0,2.0,Grêmio
+29.0,Beira-Rio,Internacional,2.0,0.0,Fluminense
+29.0,Orlando Scarpelli,Figueirense,2.0,1.0,Ponte Preta
+29.0,Durival Britto,Paraná,1.0,0.0,Goiás
+29.0,Maracanã,Flamengo,3.0,0.0,Corinthians
+29.0,Arruda,Santa Cruz,0.0,4.0,Vasco
+29.0,Palestra Itália,Palmeiras,2.0,2.0,Athletico-PR
+30.0,São Januário,Vasco,3.0,0.0,Palmeiras
+30.0,Serra Dourada,Goiás,5.0,3.0,Santa Cruz
+30.0,Vila Belmiro,Santos,2.0,1.0,Figueirense
+30.0,Moisés Lucarelli,Ponte Preta,0.0,2.0,Internacional
+30.0,Olímpico,Grêmio,1.0,1.0,São Paulo
+30.0,Durival Britto,Paraná,0.0,2.0,Flamengo
+30.0,Presidente Vargas (CE),Fortaleza,3.0,4.0,Athletico-PR
+30.0,Maracanã,Botafogo,2.0,1.0,São Caetano
+30.0,Alfredo Jaconi,Juventude,1.0,1.0,Fluminense
+30.0,Pacaembu,Corinthians,1.0,0.0,Cruzeiro
+31.0,Morumbi,Corinthians,1.0,0.0,Palmeiras
+31.0,Raulino de Oliveira,Fluminense,1.0,2.0,Grêmio
+31.0,Beira-Rio,Internacional,1.0,0.0,Juventude
+31.0,Maracanã,Vasco,3.0,1.0,Flamengo
+31.0,Arruda,Santa Cruz,0.0,1.0,Fortaleza
+31.0,Orlando Scarpelli,Figueirense,0.0,2.0,São Paulo
+31.0,Moisés Lucarelli,Ponte Preta,1.0,2.0,Botafogo
+31.0,Ligga Arena,Athletico-PR,4.0,0.0,Paraná
+31.0,Vila Belmiro,Santos,1.0,0.0,São Caetano
+31.0,Serra Dourada,Goiás,2.0,3.0,Cruzeiro
+32.0,Ligga Arena,Athletico-PR,6.0,4.0,Vasco
+32.0,Maracanã,Flamengo,1.0,1.0,Santa Cruz
+32.0,Palestra Itália,Palmeiras,1.0,3.0,Goiás
+32.0,Olímpico,Grêmio,1.0,2.0,Figueirense
+32.0,Alfredo Jaconi,Juventude,3.0,2.0,Santos
+32.0,Anacleto Campanella,São Caetano,1.0,1.0,Fluminense
+32.0,Castelão (CE),Fortaleza,0.0,4.0,Corinthians
+32.0,Maracanã,Botafogo,0.0,1.0,Internacional
+32.0,Morumbi,São Paulo,1.0,1.0,Ponte Preta
+32.0,Mineirão,Cruzeiro,2.0,2.0,Paraná
+33.0,Olímpico,Grêmio,0.0,1.0,Internacional
+33.0,Vila Belmiro,Santos,0.0,1.0,São Paulo
+33.0,Moisés Lucarelli,Ponte Preta,1.0,2.0,São Caetano
+33.0,Mineirão,Cruzeiro,2.0,1.0,Vasco
+33.0,Castelão (CE),Fortaleza,0.0,3.0,Goiás
+33.0,Orlando Scarpelli,Figueirense,1.0,0.0,Juventude
+33.0,Maracanã,Flamengo,1.0,0.0,Athletico-PR
+33.0,Maracanã,Botafogo,2.0,1.0,Fluminense
+33.0,Durival Britto,Paraná,4.0,2.0,Palmeiras
+33.0,Pacaembu,Corinthians,1.0,0.0,Santa Cruz
+34.0,Alfredo Jaconi,Juventude,1.0,2.0,Grêmio
+34.0,Anacleto Campanella,São Caetano,3.0,1.0,Figueirense
+34.0,São Januário,Vasco,3.0,1.0,Paraná
+34.0,Palestra Itália,Palmeiras,3.0,0.0,Fortaleza
+34.0,Beira-Rio,Internacional,0.0,0.0,Santos
+34.0,Ligga Arena,Athletico-PR,1.0,2.0,Corinthians
+34.0,Serra Dourada,Goiás,0.0,1.0,Flamengo
+34.0,Maracanã,Fluminense,0.0,0.0,Ponte Preta
+34.0,Morumbi,São Paulo,3.0,0.0,Botafogo
+34.0,Arruda,Santa Cruz,4.0,1.0,Cruzeiro
+35.0,Beira-Rio,Internacional,3.0,0.0,Fortaleza
+35.0,Vila Belmiro,Santos,1.0,0.0,Paraná
+35.0,São Januário,Vasco,1.0,1.0,Juventude
+35.0,Maracanã,Fluminense,1.0,0.0,Cruzeiro
+35.0,Orlando Scarpelli,Figueirense,0.0,0.0,Corinthians
+35.0,Moisés Lucarelli,Ponte Preta,3.0,0.0,Flamengo
+35.0,Serra Dourada,Goiás,0.0,2.0,São Paulo
+35.0,Ligga Arena,Athletico-PR,2.0,3.0,Grêmio
+35.0,Arruda,Santa Cruz,0.0,3.0,São Caetano
+35.0,Palestra Itália,Palmeiras,2.0,1.0,Botafogo
+36.0,Olímpico,Grêmio,3.0,1.0,Santa Cruz
+36.0,Maracanã,Flamengo,0.0,2.0,Figueirense
+36.0,Pacaembu,Corinthians,1.0,1.0,Fluminense
+36.0,Alfredo Jaconi,Juventude,3.0,2.0,Palmeiras
+36.0,Morumbi,São Paulo,1.0,1.0,Athletico-PR
+36.0,Anacleto Campanella,São Caetano,0.0,1.0,Vasco
+36.0,Durival Britto,Paraná,1.0,0.0,Internacional
+36.0,Maracanã,Botafogo,2.0,2.0,Goiás
+36.0,Mineirão,Cruzeiro,1.0,1.0,Santos
+36.0,Presidente Vargas (CE),Fortaleza,1.0,0.0,Ponte Preta
+37.0,Maracanã,Botafogo,0.0,0.0,Corinthians
+37.0,Olímpico,Grêmio,3.0,0.0,Flamengo
+37.0,Alfredo Jaconi,Juventude,2.0,2.0,Fortaleza
+37.0,Morumbi,São Paulo,2.0,0.0,Cruzeiro
+37.0,Anacleto Campanella,São Caetano,0.0,2.0,Paraná
+37.0,Durival Britto,Athletico-PR,1.0,4.0,Figueirense
+37.0,São Januário,Vasco,1.0,1.0,Santos
+37.0,Serra Dourada,Goiás,3.0,0.0,Ponte Preta
+37.0,Arruda,Santa Cruz,1.0,2.0,Fluminense
+37.0,Palestra Itália,Palmeiras,1.0,4.0,Internacional
+38.0,Beira-Rio,Internacional,1.0,4.0,Goiás
+38.0,Raulino de Oliveira,Flamengo,4.0,1.0,São Caetano
+38.0,Maracanã,Fluminense,1.0,1.0,Palmeiras
+38.0,Orlando Scarpelli,Figueirense,0.0,0.0,Vasco
+38.0,Moisés Lucarelli,Ponte Preta,1.0,1.0,Athletico-PR
+38.0,Durival Britto,Paraná,0.0,0.0,São Paulo
+38.0,Mineirão,Cruzeiro,3.0,1.0,Botafogo
+38.0,Pacaembu,Corinthians,5.0,3.0,Juventude
+38.0,Vila Belmiro,Santos,3.0,1.0,Santa Cruz
+38.0,Presidente Vargas (CE),Fortaleza,1.0,0.0,Grêmio
